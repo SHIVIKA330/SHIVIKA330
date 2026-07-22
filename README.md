@@ -7,7 +7,7 @@
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivika_Jain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivika-jain-533a36238/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-731E24?style=for-the-badge&logo=render&logoColor=white)](https://github.com/SHIVIKA330/Portfolio)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Website-731E24?style=for-the-badge&logo=render&logoColor=white)](https://shivika.onrender.com/)
   [![Email](https://img.shields.io/badge/Email-shivikaj47@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivikaj47@gmail.com)
 
 </div>
